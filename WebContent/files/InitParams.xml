@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<param>
+	<userName>admin</userName>
+	<password>tehen</password>
+	<host>10.2.2.2</host>
+	<port>1111</port>
+	<databaseName>test</databaseName>
+</param>
